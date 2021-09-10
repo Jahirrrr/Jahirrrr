@@ -14,9 +14,8 @@ Hi, I'm Zahir Hadi Athallah, a 14 y.o Coder
  
  ⚡ Fun fact: Gak Bisa Bahasa Enggress
 
-**Leader At :**
-- [CreativeStudioID](https://github.com/CreativeStudioID)
-- [CreativeTeamsID](https://github.com/CreativeTeamsID)
+**Founder :**
+- [CodeArch Indonesia](https://github.com/CodeArch-Indonesia)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ZSofttt)
 
