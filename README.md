@@ -1,6 +1,6 @@
 ## Ahlan Wa Sahlan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Hi, I’m Zahir Hadi Athallah, or you can callme Zahir, a 14 y.o Developer. I started playing with codes at 6th grade elementary school (around 11 years old) with plain HTML/CSS and JavaScript.
-Now I’ve quite mastered a few skills such as JavaScript, Python, and a many JavaScript Web FrameWork.
+Now I’ve quite mastered a few skills such as JavaScript, Python, and a many Web Development FrameWork.
 I started playing with Web Development at 2018, Python at 2019, Java at 2020, C# at 2020.
 <br>
 
