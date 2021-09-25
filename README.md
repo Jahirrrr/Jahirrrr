@@ -52,3 +52,25 @@ const zsofttt = () => {
   }
 }
 ```
+## My All Projects ( 1st Acc and 2nd Acc )
+<details>
+  <summary>My Popular Projects</summary>
+   <a href="https://github.com/Zhirrr/islamic-rest-api-indonesian-v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian-v2">
+  </a>
+   <a href="https://github.com/Zhirrr/ScraperTools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=ScraperTools">
+  </a>
+</details>
+<details>
+  <summary>My FullStack Web Projects</summary>
+   <a href="https://github.com/ZSofttt/sekolahyuk-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=sekolahyuk-app">
+  </a>
+</details>
+<details>
+  <summary>My Python Projects</summary>
+   <a href="https://github.com/Zhirrr/My-Python-Creations">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-Python-Creations">
+  </a>
+</details>
