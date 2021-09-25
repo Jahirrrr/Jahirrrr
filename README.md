@@ -1,5 +1,7 @@
 ## Ahlan Wa Sahlan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hi, I'm Zahir Hadi Athallah, a 14 y.o Coder
+Hi, I’m Zahir Hadi Athallah, or you can callme Zahir, a 14 y.o Developer. I started playing with codes at 6rd grade elementary school (around 11 years old) with plain HTML/CSS and JavaScript.
+Now I’ve quite mastered a few skills such as JavaScript, Python, and a many JavaScript Web FrameWork.
+I started playing with Web Development at 2018, Python at 2019, Java at 2020, C# at 2020.
 <br>
 
 - 🌱 I Can Codes In :
@@ -12,7 +14,7 @@ Hi, I'm Zahir Hadi Athallah, a 14 y.o Coder
  
  🔭 I’m currently working on My Beautiful House
  
- ⚡ Fun fact: Gak Bisa Bahasa Enggress
+ ⚡ Fun fact: Programming is my Hobby
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ZSofttt)
