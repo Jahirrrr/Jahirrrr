@@ -69,6 +69,12 @@ const zsofttt = () => {
   </a>
 </details>
 <details>
+  <summary>My Html5 Game Projects</summary>
+   <a href="https://github.com/Zhirrr/Pixel-Runner-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Pixel-Runner-Game">
+  </a>
+</details>
+<details>
   <summary>My Python Projects</summary>
    <a href="https://github.com/Zhirrr/My-Python-Creations">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-Python-Creations">
