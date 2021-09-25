@@ -13,8 +13,6 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020, C#
   - C# [ Unity ]
  
  🔭 I’m currently working on My Beautiful House
- 
- ⚡ Fun fact: Programming is my Hobby
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ZSofttt)
@@ -47,8 +45,7 @@ const zsofttt = () => {
         backEnd: ["ExpressJs", "Flask"],
         appDevelopment: ["Sketchware", "AndroidStudio"],
         gameDevelopment: ["Unity"]
-    },
-    funFact: "I'm Just Hobby Programming"
+    }
   }
 }
 ```
