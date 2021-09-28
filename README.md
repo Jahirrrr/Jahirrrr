@@ -53,7 +53,7 @@ const zsofttt = () => {
   }
 }
 ```
-## My All Projects ( 1st Acc and 2nd Acc )
+## My All Projects
 <details>
   <summary>My Popular Projects</summary>
    <a href="https://github.com/ZSofttt/ScraperTools">
