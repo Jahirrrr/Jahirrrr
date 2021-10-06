@@ -67,4 +67,10 @@ const zsofttt = () => {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=sekolahyuk-app">
   </a>
 </details>
+<details>
+  <summary>My API Projects</summary>
+   <a href="https://github.com/ZSofttt/wpu-open-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=wpu-open-api">
+  </a>
+</details>
 
