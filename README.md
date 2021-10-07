@@ -56,7 +56,7 @@ const zsofttt = () => {
 ```
 ## My All Projects
 <details>
-  <summary>My Popular Projects</summary>
+  <summary>My NPM Package Projects</summary>
    <a href="https://github.com/ZSofttt/ScraperTools">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=ScraperTools">
   </a>
@@ -68,7 +68,7 @@ const zsofttt = () => {
   </a>
 </details>
 <details>
-  <summary>My API Projects</summary>
+  <summary>My Community API Projects</summary>
    <a href="https://github.com/ZSofttt/wpu-open-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=wpu-open-api">
   </a>
