@@ -13,7 +13,7 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020, C#
   - Java/XML
   - C# [ Unity ]
  
- 🔭 I’m currently working on ........ 
+ 🔭 I’m currently working on WPU-OpenAPI Projects
 
 
 **Donate For Support Me :)**
@@ -71,6 +71,12 @@ const zsofttt = () => {
   <summary>My Community API Projects</summary>
    <a href="https://github.com/ZSofttt/wpu-open-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=wpu-open-api">
+  </a>
+</details>
+<details>
+  <summary>My Community NPM Package Projects</summary>
+   <a href="https://github.com/ZSofttt/wpu-openapi-package">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=wpu-openapi-package">
   </a>
 </details>
 
