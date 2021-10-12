@@ -49,6 +49,7 @@ const zsofttt = () => {
     technologies:{
         frontEnd: ["ReactJS"],
         backEnd: ["ExpressJs", "Flask"],
+        dataBase: ["MongoDB"],
         appDevelopment: ["Sketchware", "AndroidStudio"],
         gameDevelopment: ["Unity"]
     }
