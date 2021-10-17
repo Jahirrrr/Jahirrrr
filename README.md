@@ -26,7 +26,7 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020, C#
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ZSofttt)
 
-## <div align="center">⚡ Stack </div>
+## <div align="center">⚡ Tech Stack </div>
 <div align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
