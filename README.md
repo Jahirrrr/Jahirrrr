@@ -62,6 +62,12 @@ const zsofttt = () => {
 ```
 ## My All Projects
 <details>
+  <summary>My Amazing Projects</summary>
+   <a href="https://github.com/ZSofttt/DreamScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=DreamScript">
+  </a>
+</details>
+<details>
   <summary>My NPM Package Projects</summary>
    <a href="https://github.com/ZSofttt/ScraperTools">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=ScraperTools">
