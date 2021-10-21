@@ -64,7 +64,7 @@ const zsofttt = () => {
 <details>
   <summary>My Amazing Projects</summary>
    <a href="https://github.com/ds-lang/DreamScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=ds-lang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds-lang&repo=DreamScript">
   </a>
 </details>
 <details>
