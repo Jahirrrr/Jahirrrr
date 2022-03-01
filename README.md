@@ -71,26 +71,26 @@ const zsofttt = () => {
 </details>
 <details>
   <summary>My NPM Package Projects</summary>
-   <a href="https://github.com/ZSofttt/ScraperTools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=ScraperTools">
+   <a href="https://github.com/Jahirrrr/ScraperTools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=ScraperTools">
   </a>
 </details>
 <details>
   <summary>My FullStack Web Projects</summary>
-   <a href="https://github.com/ZSofttt/sekolahyuk-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=sekolahyuk-app">
+   <a href="https://github.com/Jahirrrr/sekolahyuk-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=sekolahyuk-app">
   </a>
 </details>
 <details>
   <summary>My Community API Projects</summary>
-   <a href="https://github.com/ZSofttt/wpu-open-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=wpu-open-api">
+   <a href="https://github.com/Jahirrrr/wpu-open-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=wpu-open-api">
   </a>
 </details>
 <details>
   <summary>My Community NPM Package Projects</summary>
-   <a href="https://github.com/ZSofttt/wpu-openapi-package">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZSofttt&repo=wpu-openapi-package">
+   <a href="https://github.com/Jahirrrr/wpu-openapi-package">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=wpu-openapi-package">
   </a>
 </details>
 
