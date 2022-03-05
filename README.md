@@ -10,8 +10,7 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020, C#
   - CSS
   - JavaScript
   - Python
-  - Java/XML
-  - C# [ Unity ]
+  - Java/XML ( a little bit )
 
 ## FunFact About Me:
 - My Age: 15 y.o ( on 30 March )
@@ -61,8 +60,7 @@ const zsofttt = () => {
         frontEnd: ["ReactJS"],
         backEnd: ["ExpressJs", "Flask"],
         dataBase: ["MongoDB"],
-        appDevelopment: ["Sketchware", "AndroidStudio"],
-        gameDevelopment: ["Unity"]
+        appDevelopment: [""AndroidStudio"]
     }
   }
 }
