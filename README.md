@@ -60,7 +60,7 @@ const zsofttt = () => {
         frontEnd: ["ReactJS"],
         backEnd: ["ExpressJs", "Flask"],
         dataBase: ["MongoDB"],
-        appDevelopment: [""AndroidStudio"]
+        appDevelopment: ["AndroidStudio"]
     }
   }
 }
