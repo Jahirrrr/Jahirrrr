@@ -2,7 +2,7 @@
 Hi, I’m Zahir Hadi Athallah, or you can callme Zahir, I'm a student from Indonesia 🇮🇩 who loves to code!
 I started playing with codes at 6th grade elementary school (around 11 years old) with plain HTML/CSS and JavaScript.
 Now I’ve quite mastered a few skills such as JavaScript, Python, and a many Web Development FrameWork.
-I started playing with Web Development at 2018, Python at 2019, Java at 2020, C# at 2020.
+I started playing with Web Development at 2018, Python at 2019, Java at 2020
 <br>
 
 - 🌱 I Can Codes In :
