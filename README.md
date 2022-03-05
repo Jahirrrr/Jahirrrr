@@ -50,14 +50,14 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020
 </div>
 ___
 
-## About me
+## About Me
 ```js
-const zsofttt = () => {
+const Jahirrrr = () => {
   return {
     pronouns: "He" | "Him",
     askMeAbout: ["Front End & Back End Web Development", "App Development"],
     technologies:{
-        frontEnd: ["ReactJS"],
+        frontEnd: ["ReactJS", "VueJS"],
         backEnd: ["ExpressJs", "Flask"],
         dataBase: ["MongoDB"],
         appDevelopment: ["AndroidStudio"]
