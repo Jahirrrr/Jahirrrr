@@ -12,6 +12,11 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020, C#
   - Python
   - Java/XML
   - C# [ Unity ]
+
+## FunFact About Me:
+- My Age: 15 y.o ( on 30 March )
+- My Height : 170 Cm
+- Location : Jakarta, Indonesia
  
  🔭 I’m currently working on DreamScript Programming Languange Projects
  
