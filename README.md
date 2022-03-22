@@ -1,6 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Zahir%20Hadi%20Athallah&description=Hi,%20im%20a%2015%20y.o%20FullStack%20Web%20Developer&image=https://i.ibb.co/X3TQxhh/20220323-055205.jpg&instagram=Jahirrrr&linkedin=Zahir%20Hadi%20Athallah%20&github=Jahirrrr&twitter=Jahirrrr
-
-
+![My card name](https://cardivo.vercel.app/api?name=Zahir%20Hadi%20Athallah&description=Hi,%20im%20a%2015%20y.o%20FullStack%20Web%20Developer&image=https://i.ibb.co/X3TQxhh/20220323-055205.jpg&instagram=Jahirrrr&linkedin=Zahir%20Hadi%20Athallah%20&github=Jahirrrr&twitter=Jahirrrr)
 ## Ahlan Wa Sahlan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Hi, I’m Zahir Hadi Athallah, or you can callme Zahir, I'm a student from Indonesia 🇮🇩 who loves to code!
 I started playing with codes at 6th grade elementary school (around 11 years old) with plain HTML/CSS and JavaScript.
