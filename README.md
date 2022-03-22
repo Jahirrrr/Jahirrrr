@@ -36,7 +36,7 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020
 ![](https://visitor-badge.glitch.me/badge?page_id=ZSofttt)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahirrrrr&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahirrrr&show_icons=true&theme=dracula">
 </div>
 
 ## <div align="center">⚡ Tech Stack </div>
