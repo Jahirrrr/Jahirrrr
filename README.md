@@ -19,6 +19,8 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020
 - Location : Jakarta, Indonesia
  
  🔭 I’m currently working on DreamScript Programming Languange Projects
+
+🌱 I'm currently learning Arduino Uno, and AngularJS
  
 **My FreeCodeCamp Account :**
 - Visit My [Account](https://freecodecamp.org/jahirfreecodecamp)
