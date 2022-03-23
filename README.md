@@ -1,5 +1,7 @@
-![My card name](https://cardivo.vercel.app/api?name=Zahir%20Hadi%20Athallah&description=Hi,%20im%20a%2015%20y.o%20FullStack%20Web%20Developer&image=https://i.ibb.co/X3TQxhh/20220323-055205.jpg&instagram=Jahirrrr&linkedin=Zahir%20Hadi%20Athallah%20&github=Jahirrrr&twitter=Jahirrrr)
-## Ahlan Wa Sahlan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<div align="center">
+  <img src="https://i.ibb.co/2s5d2kN/png-20220323-211639-0000.png">
+</div>
+
 Hi, I’m Zahir Hadi Athallah, or you can callme Zahir, I'm a student from Indonesia 🇮🇩 who loves to code!
 I started playing with codes at 6th grade elementary school (around 11 years old) with plain HTML/CSS and JavaScript.
 Now I’ve quite mastered a few skills such as JavaScript, Python, and a many Web Development FrameWork.
@@ -35,9 +37,6 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ZSofttt)
 
-<div align="center">
-  <img src="https://i.ibb.co/2s5d2kN/png-20220323-211639-0000.png">
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahirrrr&show_icons=true&theme=dracula">
