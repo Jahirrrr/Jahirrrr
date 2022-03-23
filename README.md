@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/2s5d2kN/png-20220323-211639-0000.png">
 </div>
-
-
+<br>
 
 Hi, I’m Zahir Hadi Athallah, or you can callme Zahir, I'm a student from Indonesia 🇮🇩 who loves to code!
 I started playing with codes at 6th grade elementary school (around 11 years old) with plain HTML/CSS and JavaScript.
