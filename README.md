@@ -17,7 +17,7 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020
   - Java/XML ( a little bit )
 
 ## FunFact About Me:
-- My Age: 15 y.o ( on 30 March )
+- My Age: 15 y.o
 - My Height : 170 Cm
 - Location : Jakarta, Indonesia
  
