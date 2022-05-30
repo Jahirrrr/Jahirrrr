@@ -12,7 +12,8 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020
 - 🌱 I Can Codes In :
   - HTML
   - CSS
-  - JavaScript
+  - JavaScript && TypeScript
+  - DreamScript (hehe)
   - Python
   - Java/XML ( a little bit )
 
