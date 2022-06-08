@@ -86,7 +86,7 @@ const Jahirrrr = () => {
   </a>
 </details>
 <details>
-  <summary>My Virtual Asisstant Projects</summary>
+  <summary>My Virtual Assistant Projects</summary>
    <a href="https://github.com/Jahirrrr/Manjaro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=Manjaro">
   </a>
