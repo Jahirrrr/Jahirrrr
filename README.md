@@ -80,9 +80,15 @@ const Jahirrrr = () => {
 ```
 ## My All Projects
 <details>
-  <summary>My Amazing Projects</summary>
+  <summary>My Own Programming Language Projects</summary>
    <a href="https://github.com/ds-lang/DreamScript">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds-lang&repo=DreamScript">
+  </a>
+</details>
+<details>
+  <summary>My Virtual Asisstant Projects</summary>
+   <a href="https://github.com/Jahirrrr/Manjaro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=Manjaro">
   </a>
 </details>
 <details>
