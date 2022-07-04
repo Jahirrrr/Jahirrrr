@@ -73,7 +73,7 @@ const Jahirrrr = () => {
         frontEnd: ["ReactJS", "VueJS"],
         backEnd: ["ExpressJs", "Flask"],
         dataBase: ["MongoDB"],
-        appDevelopment: ["AndroidStudio"]
+        mobileDevelopment: ["React-Native"]
     }
   }
 }
