@@ -68,7 +68,7 @@ ___
 const Jahirrrr = () => {
   return {
     pronouns: "He" | "Him",
-    askMeAbout: ["Front End & Back End Web Development", "App Development"],
+    askMeAbout: ["Front End & Back End Web Development", "Mobile Development"],
     technologies:{
         frontEnd: ["ReactJS", "VueJS"],
         backEnd: ["ExpressJs", "Flask"],
