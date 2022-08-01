@@ -15,7 +15,7 @@ I started playing with Web Development at 2018, Python at 2019, Java at 2020
   - JavaScript && TypeScript
   - Python
   - Java/XML
-  - C && C++ && C#
+  - C / C++ / C#
   - ~~DreamScript~~ hehe
 
 ## FunFact About Me:
