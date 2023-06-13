@@ -18,8 +18,8 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
   - ~~DreamScript~~ hehe
 
 ## FunFact About Me:
-- My Age: 15 y.o
-- My Height : 170 Cm
+- My Age: 16 y.o
+- My Height : 172 Cm
 - Location : Jakarta, Indonesia
  
  🔭 I’m currently working on DreamScript Programming Languange Projects
