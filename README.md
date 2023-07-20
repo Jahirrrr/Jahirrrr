@@ -37,7 +37,7 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
 **Donate For Support Me :)**
 - [Click Here](https://saweria.co/zsoft)
 
-![](https://visitor-badge.glitch.me/badge?page_id=ZSofttt)
+![](https://visitor-badge.glitch.me/badge?page_id=Jahirrrr)
 
 
 <div align="center">
@@ -101,6 +101,9 @@ const Jahirrrr = () => {
   <summary>My FullStack Web Projects</summary>
    <a href="https://github.com/Jahirrrr/sekolahyuk-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=sekolahyuk-app">
+  </a>
+  <a href="https://github.com/Jahirrrr/Perpusku">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=perpusku">
   </a>
 </details>
 <details>
