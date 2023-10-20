@@ -11,6 +11,7 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
 - 🌱 I Can Codes In :
   - HTML
   - CSS
+  - PHP
   - JavaScript && TypeScript
   - Python
   - Java/XML
