@@ -108,6 +108,9 @@ const Jahirrrr = () => {
   <a href="https://github.com/Jahirrrr/Perpusku">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=perpusku">
   </a>
+   <a href="https://github.com/Jahirrrr/laptop-app-laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=laptop-app-laravel">
+  </a>
 </details>
 <details>
   <summary>My Community API Projects</summary>
