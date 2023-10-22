@@ -22,6 +22,7 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
 - :trophy: My Achievement :
   - 2nd Place in **Web Technologies** Student Competency Competition, Central Jakarta City Level 2023
   - 2nd Place in National Academic Achievement Student **Informatics** Olympiad 2023
+    
 
  
  🔭 I’m currently working on DreamScript Programming Languange Projects
