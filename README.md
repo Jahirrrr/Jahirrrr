@@ -18,17 +18,13 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
   - C / C++ / C#
   - ~~DreamScript~~ hehe
 
-## FunFact About Me:
-- My Age: 16 y.o
-- My Height : 172 Cm
-- Location : Jakarta, Indonesia
  
  🔭 I’m currently working on DreamScript Programming Languange Projects
 
 🌱 I'm currently learning Arduino Uno, and AngularJS
  
-**My FreeCodeCamp Account :**
-- Visit My [Account](https://freecodecamp.org/jahirfreecodecamp)
+**My LinkedIn Account :**
+- Visit My [Account](https://www.linkedin.com/in/zahir-hadi-athallah)
 
 
  **Maintainer/Leader on :**
