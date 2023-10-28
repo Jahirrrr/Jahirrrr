@@ -20,7 +20,7 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
     
 
 - 🏆 My Achievement :
-  - 🏆 2nd Place in **Web Technology** Student Competency Competition at Central Jakarta City Level 2023
+  - 🏆 2nd Place in **Web Technology** Student Competency Competition (LKS) at Central Jakarta City Level 2023
   - 🏆 2nd Place in National Academic Achievement Student **Informatics** Olympiad 2023
     
 
