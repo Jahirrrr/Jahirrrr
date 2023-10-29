@@ -83,6 +83,12 @@ const Jahirrrr = () => {
 ```
 ## My All Projects
 <details>
+  <summary>My LKS Results</summary>
+   <a href="https://github.com/Jahirrrr/lks-webtech-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=lks-webtech-2023">
+  </a>
+</details>
+<details>
   <summary>My Own Programming Language Projects</summary>
    <a href="https://github.com/ds-lang/DreamScript">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds-lang&repo=DreamScript">
