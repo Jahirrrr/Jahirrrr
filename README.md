@@ -9,12 +9,12 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
 <br>
 
 - 🌱 I Can Codes In :
-  - HTML
-  - CSS
+  - HTML/CSS
   - PHP
   - JavaScript && TypeScript
   - Python
   - Java/XML
+  - Dart
   - C / C++ / C#
   - ~~DreamScript~~ hehe
     
