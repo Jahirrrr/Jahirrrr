@@ -119,6 +119,12 @@ const Jahirrrr = () => {
   </a>
 </details>
 <details>
+  <summary>My Mobile App Projects</summary>
+   <a href="https://github.com/Jahirrrr/Quranify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=quranify">
+   </a>
+</details>
+<details>
   <summary>My Community API Projects</summary>
    <a href="https://github.com/Jahirrrr/wpu-open-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=wpu-open-api">
