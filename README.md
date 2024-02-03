@@ -21,7 +21,6 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
 
 - 🏆 My Achievement :
   - 🏆 2nd Winner **Web Technologies** Student Competency Competition (LKS) at Central Jakarta City Level 2023
-  - 🏆 Runner-Up in National Academic Achievement Student **Informatics** Olympiad 2023
     
 
  
@@ -74,9 +73,9 @@ const Jahirrrr = () => {
     askMeAbout: ["Front End & Back End Web Development", "Mobile Development"],
     technologies:{
         frontEnd: ["ReactJS", "VueJS"],
-        backEnd: ["ExpressJs", "Flask"],
+        backEnd: ["ExpressJs", "Flask", "Django"],
         dataBase: ["MongoDB"],
-        mobileDevelopment: ["React-Native"]
+        mobileDevelopment: ["Java", "Flutter", "React-Native"]
     }
   }
 }
@@ -119,7 +118,7 @@ const Jahirrrr = () => {
   </a>
 </details>
 <details>
-  <summary>My Mobile App Projects</summary>
+  <summary>My Mobile Apps Projects</summary>
    <a href="https://github.com/Jahirrrr/Quranify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=quranify">
    </a>
