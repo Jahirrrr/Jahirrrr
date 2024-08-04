@@ -16,6 +16,7 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
   - Java/XML
   - Dart
   - C / C++ / C#
+  - Assembly
   - ~~DreamScript~~ hehe
     
 
