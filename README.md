@@ -27,9 +27,9 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
     
 
  
- 🔭 I’m currently working on DreamScript Programming Languange Projects
+ 🔭 I’m currently working on "Silhoutte" Projects
 
-🌱 I'm currently learning Arduino Uno, and AngularJS
+🌱 I'm currently learning Computer Science
  
 **My LinkedIn Account :**
 - Visit My [Account](https://www.linkedin.com/in/zahir-hadi-athallah)
