@@ -21,6 +21,7 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
     
 
 - 🏆 My Achievement :
+  - 🏆 1st Place **Cyber Security** Student Competency Competition (LKS) at Central Jakarta City 2025
   - 🏆 2nd Place **Web Technologies** Student Competency Competition (LKS) at Central Jakarta City 2023
   - 🏆 2nd Place **Cyber Security** Student Competency Competition (LKS) at Central Jakarta City 2024
   - 🏆 5th Place **Cyber Security** Student Competency Competition (LKS) at D.K.I Jakarta Province 2024
@@ -124,6 +125,15 @@ const Jahirrrr = () => {
   </a>
    <a href="https://github.com/Jahirrrr/laptop-app-laravel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=laptop-app-laravel">
+  </a>
+  <a href="https://github.com/Jahirrrr/PlaneX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=PlaneX">
+  </a>
+  <a href="https://github.com/Jahirrrr/E-SPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=E-SPP">
+  </a>
+  <a href="https://github.com/Jahirrrr/ecommerce-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=ecommerce-app">
   </a>
 </details>
 <details>
