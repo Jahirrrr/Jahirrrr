@@ -135,6 +135,9 @@ const Jahirrrr = () => {
   <a href="https://github.com/Jahirrrr/ecommerce-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=ecommerce-app">
   </a>
+  <a href="https://github.com/Jahirrrr/rental-mobil-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jahirrrr&repo=rental-mobil-app">
+  </a>
 </details>
 <details>
   <summary>My Mobile Apps Projects</summary>
