@@ -15,17 +15,10 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
   - Python
   - Java/XML
   - Dart
+  - Go
   - C / C++ / C#
   - Assembly
   - ~~DreamScript~~ hehe
-    
-
-- 🏆 My Achievement :
-  - 🏆 1st Place **Cyber Security** Student Competency Competition (LKS) at Central Jakarta City 2025
-  - 🏆 2nd Place **Web Technologies** Student Competency Competition (LKS) at Central Jakarta City 2023
-  - 🏆 2nd Place **Cyber Security** Student Competency Competition (LKS) at Central Jakarta City 2024
-  - 🏆 5th Place **Cyber Security** Student Competency Competition (LKS) at D.K.I Jakarta Province 2024
-    
 
  
  🔭 I’m currently working on "Silhoutte" Projects
