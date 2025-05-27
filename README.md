@@ -29,10 +29,6 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
 - Visit My [Account](https://www.linkedin.com/in/zahir-hadi-athallah)
 
 
- **Maintainer/Leader on :**
-- BellShade [OpenAPI](https://github.com/bellshade/open-api) Open Source Projects
-
-
 **Donate For Support Me :)**
 - [Click Here](https://saweria.co/zsoft)
 
