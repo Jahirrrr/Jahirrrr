@@ -18,6 +18,7 @@ Now I’ve quite mastered a few skills such as JavaScript, Python, Java, CPP and
   - Go
   - C / C++ / C#
   - Assembly
+  - Solidity & Motoko
   - ~~DreamScript~~ hehe
 
  
